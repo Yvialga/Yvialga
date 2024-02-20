@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 ! I'm Yvialga
+
+- 🌱 I’m currently learning React.js and Next.js.
+- 💻 Visit my website at : https://yvialga.fr
 
 <!--
 **Yvialga/Yvialga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
