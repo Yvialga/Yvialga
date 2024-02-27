@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning React.js, Next.js and Node.js.
 - 💻 Visit my website at : https://yvialga.fr
-- My future plans are to discover : Tailwind CSS, Flutter (to make mobile applications) and Electron.js (or it's alternative, to make desktop applications).
+- My future plans are to discover Tailwind CSS in particular.
 
 <!--
 - 🔭 I’m currently working on ...
