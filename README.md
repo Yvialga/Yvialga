@@ -1,8 +1,8 @@
 ### Hi there 👋 ! I'm Yvialga
 
-- 🌱 I’m currently learning React.js, Next.js and Node.js.
+- 🌱 I’m currently learning React.js, Next.js, PHP and MySQL.
 - 💻 Visit my website at : https://yvialga.fr
-- My future plans are to discover Tailwind CSS in particular.
+<!--- My future plans are to discover Tailwind CSS in particular.-->
 
 <!--
 - 🔭 I’m currently working on ...
