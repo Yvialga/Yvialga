@@ -1,7 +1,7 @@
 ### Hi there 👋 ! I'm Yvialga
 
-- 🌱 I’m currently learning React.js, Next.js, tailWindCSS PHP and MySQL.
-- 💻 Visit my website at (under rebuilt) : https://yvialga.fr
+- 🌱 I’m currently learning React.js, Next.js, Tailwind CSS, PHP, MySQL & Symfony.
+- 💻 Visit my website at (under rebuilt with Next.js) : https://yvialga.fr
 
 <!--
 - 🔭 I’m currently working on ...
