@@ -1,7 +1,9 @@
 ### Hi there 👋 ! I'm Yvialga
 
-- 🌱 I’m currently learning React.js, Next.js, Tailwind CSS, PHP, MySQL & Symfony.
-- 💻 Visit my website at (under rebuilt with Next.js) : https://yvialga.fr
+- 🌱 I’m currently learning Bootstrap.
+- 🔭 I’m currently working with Bootstrap, JS & Python.
+- 💻 Visit my website !  ->  https://yvialga.fr
+- 📚 My stack : HTML, Twig | Jinja, CSS, SCSS, Tailwind css, JavaScript, React.js, Next.js, Java, PHP, Symfony, MySQL
 
 <!--
 - 🔭 I’m currently working on ...
