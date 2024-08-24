@@ -1,7 +1,7 @@
 ### Hi there 👋 ! I'm Yvialga
 
-- 🌱 I’m currently learning Symfony.
-- 🔭 I’m currently working on a project with Symfony, css & Tailwind and for another project I use Bootstrap, JS & Python.
+- 🌱 I’m currently learning Symfony, MySQL.
+- 🔭 I’m currently working on a project with Symfony.
 - 💻 Visit my website !  ->  https://yvialga.fr
 - 📚 My stack : HTML, Twig | Jinja, CSS, SCSS, Tailwind css, JavaScript, React.js, Next.js, Java, PHP, Symfony, MySQL
 
