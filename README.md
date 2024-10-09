@@ -1,11 +1,11 @@
 ### Hi there 👋 ! I'm Yvialga
 
-- 🌱 I’m currently learning Symfony, MySQL.
-- 🔭 I’m currently working on a project with Symfony.
+- 🌱 I continue to learning JavaScript.
 - 💻 Visit my website !  ->  https://yvialga.fr
-- 📚 My stack : HTML, Twig | Jinja, CSS, SCSS, Tailwind css, JavaScript, React.js, Next.js, Java, PHP, Symfony, MySQL
+- 📚 My stack : HTML (+ template engine), CSS (+ library/framework css (Tailwind)), JavaScript (+ React.js, Next.js), Java, PHP, Symfony, MySQL
 
 <!--
+- 🌱 I’m currently learning Symfony, MySQL.
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
