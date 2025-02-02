@@ -1,11 +1,12 @@
 ### Hi there 👋 ! I'm Yvialga
 
-- 🌱 I continue to learning JavaScript.
+- 🌱 I continue to learning JavaScript, PHP/Symfony.
 - 💻 Visit my website !  ->  https://tommybernard.fr
-- 📚 My stack : HTML (+ template engine), CSS (+ library/framework css (Tailwind)), JavaScript (+ React.js, Next.js), Java, PHP, Symfony, MySQL
+- 📚 My stack :
+- Front-end : HTML (+ template engine), CSS (Bootstrap5, Tailwind), JavaScript (Frameworks : React.js, Next.js)
+- Back-end : Java, PHP, Symfony, (basics of) Laravel, MySQL
 
 <!--
-- 🌱 I’m currently learning Symfony, MySQL.
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
