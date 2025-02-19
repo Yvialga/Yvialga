@@ -1,5 +1,6 @@
 ### Hi there 👋 ! I'm Yvialga
 
+- 👯 I’m looking for an apprenticeship in web/full stack development.
 - 🌱 I continue to learning JavaScript, PHP/Symfony.
 - 💻 Visit my website !  ->  https://tommybernard.fr
 - 📚 My stack :
