@@ -1,7 +1,7 @@
 ### Hi there 👋 ! I'm Yvialga
 
 - 👯 I’m looking for an apprenticeship in web/full stack development.
-- 🌱 I continue to learning JavaScript, PHP/Symfony.
+- 🌱 I'm learning JavaScript, PHP/Symfony, and Python for RFID.
 - 💻 Visit my website !  ->  https://tommybernard.fr
 - 📚 My stack :
 - Front-end : HTML (+ template engine), CSS (Bootstrap5, Tailwind), JavaScript (Frameworks : React.js, Next.js)
