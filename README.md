@@ -5,7 +5,7 @@
 - 💻 Visit my website !  ->  https://tommybernard.fr
 - 📚 My stack :
 - Front-end : HTML (+ template engine), CSS (Bootstrap5, Tailwind), JavaScript (Frameworks : React.js, Next.js)
-- Back-end : Java, PHP, Symfony, (basics of) Laravel, MySQL
+- Back-end : PHP-Symfony, Java, MySQL, (basics of) Python
 
 <!--
 - 🔭 I’m currently working on ...
