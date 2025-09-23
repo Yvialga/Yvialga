@@ -4,8 +4,9 @@
 - 🌱 I'm learning JavaScript, PHP/Symfony, and Python for RFID.
 - 💻 Visit my website !  ->  https://tommybernard.fr
 - 📚 My stack :
-- Front-end : HTML (+ template engine), CSS (Bootstrap5, Tailwind), JavaScript (Frameworks : React.js, Next.js)
-- Back-end : PHP-Symfony, Java, MySQL, (basics of) Python
+- Front-end : React.js, Next.js, Node.js
+- Back-end : php-Symfony, Java, (basics of) Python
+- BDD : MySQL
 
 <!--
 - 🔭 I’m currently working on ...
