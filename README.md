@@ -19,11 +19,11 @@ I wish to create interactives-**experiences**. So I'm interested in Game design,
 [![Docker](https://img.shields.io/badge/-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>-->
-### Soft skills
+### 🌱 Soft skills
 - I take care to ensure that my websites and applications are secure and accessible.
 - I wish to develope as best as possible, so I'm looking into methods such as the trunk based development, git flow, clean code or SOLID
 
-## Projects
+## 🔨 Projects
 1. [**Canoe for sale**](https://github.com/Yvialga/canoe-for-sell)  
 End-of-training project, mainly to work on the backend side of an application.
    - Call Stripe API
@@ -34,16 +34,17 @@ SaaS for calculating the concentration of micropollutants in water plans, under 
    - Modernize SaaS interface
    - Front-end development (security (XSS vunlerability), improve usability)
 
-## Reference articles
+## 📓Reference books and articles
 - [You Don't Know JavaScript Yet by *Kyle Simpson*](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md) *(currently reading)*
 - [The Gamer's Brain: How Neuroscience and UX Can Impact Video Game Design by *Celia Hodent*](https://celiahodent.com/resources/#check-out-my-books)
 - [Learning programming in Java by *Claude Delannoy*](https://www.editions-eyrolles.com/livre/programmer-en-java-12)
 - [The Art of Game Design by *Jesse Schell*](https://www.amazon.fr/Art-Game-Design-Lenses-Third/dp/1138632058)
 
-## Interests and learning
+## ⚡Interests and learning
 - security, accessibility 
 - video game development (fun, game design, mechanics, systems)
 - improve my knowledge of JS
+- whitewater 🌊
 
 ## 📫 Reach me
 _email soon_
