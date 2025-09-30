@@ -23,11 +23,13 @@ I wish to create interactives-**experiences**. So I'm interested in Game design,
 - I take care to ensure that my websites and applications are secure and accessible.
 
 ## Projects
-1. [**Canoe for sale**](https://github.com/Yvialga/canoe-for-sell)
+1. [**Canoe for sale**](https://github.com/Yvialga/canoe-for-sell)  
+End-of-training project, mainly to work on the backend side of an application.
    - Call Stripe API
    - Full stack development (CRUDs, Authentication, sorting filter)
 
-2. **DGT calculator**
+2. **DGT calculator**  
+SaaS for calculating the concentration of micropollutants in water plans, under development when I working on.
    - Modernize SaaS interface
    - Front-end development (security (XSS vunlerability), improve usability)
 
