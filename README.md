@@ -21,6 +21,7 @@ I wish to create interactives-**experiences**. So I'm interested in Game design,
 </div>-->
 ### Soft skills
 - I take care to ensure that my websites and applications are secure and accessible.
+- I wish to develope as best as possible, so I'm looking into methods such as the trunk based development, git flow, clean code or SOLID
 
 ## Projects
 1. [**Canoe for sale**](https://github.com/Yvialga/canoe-for-sell)  
@@ -42,6 +43,7 @@ SaaS for calculating the concentration of micropollutants in water plans, under 
 ## Interests and learning
 - security, accessibility 
 - video game development (fun, game design, mechanics, systems)
-- clean code, improve my knowledge of JS, SOLID
+- improve my knowledge of JS
 
 ## 📫 Reach me
+_email soon_
