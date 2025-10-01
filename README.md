@@ -1,11 +1,11 @@
 <!--## Announcement-->
-## About me
-Hi there :wave: !  
-I want to create interactives-**experiences**. So I'm interested in Game design, UX and programming to achieve my goal !
-<!-- 🌱I'm a full stack web developper-->
+I create interactive **experiences** using my development skills, my knowledge of Game Design and my appetite for UX !
+## Full-stack developer skills
+
 ### Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)  ![API](https://img.shields.io/badge/API-FF6F00?logo=fastapi&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+<!--_[Visit my repositories](https://github.com/Yvialga?tab=repositories) for more technologies._-->
 <!--<div>
   
 [![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -25,13 +25,13 @@ I want to create interactives-**experiences**. So I'm interested in Game design,
 ## 🔨 Projects
 1. [**Canoe for sale**](https://github.com/Yvialga/canoe-for-sell)  
 End-of-training project, mainly to work on the backend side of an application.
-   - Call Stripe API
-   - Full stack development (CRUDs, Authentication, sorting filter)
+   - Call Stripe API ;
+   - Full stack development (CRUDs, Authentication, sorting filter) ;
 
-2. **DGT calculator**  
+2. [**DGT calculator**](https://www.tommybernard.fr/projects/saas-dgt)  
 SaaS for calculating the concentration of micropollutants in water plans, under development when I working on.
-   - Modernize SaaS interface
-   - Front-end development (security (XSS vunlerability), improve usability)
+   - Modernize SaaS interface ;
+   - Front-end development (security (XSS vunlerability), improve usability) ;
 
 ## Reference books and articles
 - [You Don't Know JavaScript Yet by *Kyle Simpson*](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/README.md) *(currently reading)*
