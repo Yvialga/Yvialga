@@ -1,6 +1,8 @@
 <!--## Announcement-->
-# About Me
-#### Interactives experiences, coding, Game Design and UX !  
+# Personals words
+Interactives **experiences**, coding, **Game Design** and UX !  
+
+Welcome to my world !
 
 ## Full-stack developer skills
 
@@ -47,5 +49,5 @@ SaaS for calculating the concentration of micropollutants in water plans, under 
 - ... and whitewater 🌊
 
 ## 📫 Reach me
-_email soon_
+_email soon_  
 [Linkedin](https://www.linkedin.com/in/tommybernard/)
