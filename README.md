@@ -1,5 +1,7 @@
 <!--## Announcement-->
-I create interactive **experiences** using my development skills, my knowledge of Game Design and my appetite for UX !
+# About Me
+#### Interactives experiences, coding, Game Design and UX !  
+
 ## Full-stack developer skills
 
 ### Stack
@@ -46,3 +48,4 @@ SaaS for calculating the concentration of micropollutants in water plans, under 
 
 ## 📫 Reach me
 _email soon_
+[Linkedin](https://www.linkedin.com/in/tommybernard/)
