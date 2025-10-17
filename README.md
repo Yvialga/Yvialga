@@ -1,5 +1,9 @@
 <!--## Announcement-->
-## Full-stack developer skills
+## Skills
+My specialities are :
+- **Game Design** : making it fun to use
+- **UX** : enjoy the experience
+- **coding** : bringing ideas to life
 
 ### Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)  ![API](https://img.shields.io/badge/API-FF6F00?logo=fastapi&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  
