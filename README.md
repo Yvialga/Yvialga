@@ -1,14 +1,15 @@
 <!--## Announcement-->
-## Skills
-My specialities are :
-- **Game Design** : making it fun to use
-- **UX** : enjoy the experience
-- **coding** : bringing ideas to life
+## I'm Tommy !
+My specialities ⭐ are :  
 
-### Stack
+- **Game Design** : making it fun to use  
+- **UX** : enjoy the experience  
+- **coding** : bringing ideas to life
+ 
+## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  ![Symfony](https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white)  ![API](https://img.shields.io/badge/API-FF6F00?logo=fastapi&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-<!--_[Visit my repositories](https://github.com/Yvialga?tab=repositories) for more technologies._-->
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)   
+and so on...<!--_[Visit my repositories](https://github.com/Yvialga?tab=repositories) for more technologies._-->
 <!--<div>
   
 [![JavaScript](https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
