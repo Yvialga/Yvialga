@@ -27,7 +27,7 @@ and so on...<!--_[Visit my repositories](https://github.com/Yvialga?tab=reposito
 - I wish to develope as best as possible, so I'm looking into methods such as the trunk-based development, git flow, clean code or SOLID
 <!---->
 ## 🔨 Projects
-1. [**ChronoBol**]() _(in progress)_  
+1. [**ChronoBol**](https://github.com/Yvialga/chronobol) _(in progress)_  
 Web app for manage the teams timing during a race. Chronometer software.
     - Design (UML, Data model)
     - Full stack development
